@@ -12,12 +12,17 @@
             <ColumnDefinition Width="300"/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        
+
         <Grid
             PointerMoved="UIElement_OnPointerMoved"
             Margin="20"
             Background="LightGray"
-            />
+            >
+            <TextBlock 
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Text="Move pointer here to see"/>
+        </Grid>
 
         <Grid 
             Margin="20"
