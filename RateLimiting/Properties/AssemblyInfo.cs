@@ -5,9 +5,9 @@ using System.Reflection;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("RateLimiting")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Rate Limiting (debounce, throttle) for C# Portable Class Library")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Hussein.Juybari")]
 [assembly: AssemblyProduct("RateLimiting")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
