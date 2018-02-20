@@ -1,7 +1,8 @@
 # RateLimiting.NET [![Build Status](https://travis-ci.org/Husseinhj/RateLimiting.svg?branch=master)](https://travis-ci.org/Husseinhj/RateLimiting) ![Nuget version](https://img.shields.io/nuget/v/RateLimiting.svg?style=flat) ![downloads](https://img.shields.io/nuget/dt/RateLimiting.svg?style=flat)
 
 This library help you use `Throttle` and `Debounce` in you *.NET* projects.
-For see what is **rate limiting** you can run sample app or [watch online sample](http://demo.nimius.net/debounce_throttle/) 
+For see what is **rate limiting** you can run sample app or [watch online sample](http://demo.nimius.net/debounce_throttle/).
+
 This library is Extension on `object` type which can use for any type.
 
 ## Nuget
