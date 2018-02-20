@@ -37,6 +37,6 @@ private void OnPointerMoved(object sender, PointerRoutedEventArgs pointerRoutedE
 }
 ```
 
-## Excample screen shot
+## Excample screenshot
 
-![Rate Limiting example screen shot](https://raw.githubusercontent.com/Husseinhj/RateLimiting.NET/master/RateLimitingExample/Assets/rate-limiting.PNG)
+![Rate Limiting example screenshot](https://raw.githubusercontent.com/Husseinhj/RateLimiting.NET/master/RateLimitingExample/Assets/rate-limiting.PNG)
