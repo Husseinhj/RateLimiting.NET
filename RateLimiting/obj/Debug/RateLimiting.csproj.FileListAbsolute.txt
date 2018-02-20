@@ -1,6 +1,0 @@
-c:\users\husseinhj\documents\visual studio 2017\Projects\RateLimiting\RateLimiting\bin\Debug\RateLimiting.dll
-c:\users\husseinhj\documents\visual studio 2017\Projects\RateLimiting\RateLimiting\bin\Debug\RateLimiting.pdb
-c:\users\husseinhj\documents\visual studio 2017\Projects\RateLimiting\RateLimiting\obj\Debug\RateLimiting.csprojResolveAssemblyReference.cache
-c:\users\husseinhj\documents\visual studio 2017\Projects\RateLimiting\RateLimiting\obj\Debug\RateLimiting.csproj.CoreCompileInputs.cache
-c:\users\husseinhj\documents\visual studio 2017\Projects\RateLimiting\RateLimiting\obj\Debug\RateLimiting.dll
-c:\users\husseinhj\documents\visual studio 2017\Projects\RateLimiting\RateLimiting\obj\Debug\RateLimiting.pdb
