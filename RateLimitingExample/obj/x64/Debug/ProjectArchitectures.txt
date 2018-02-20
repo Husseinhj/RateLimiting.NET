@@ -1,0 +1,2 @@
+C:\Users\HusseinHJ\Documents\Visual Studio 2017\Projects\RateLimiting\RateLimiting.NET\RateLimiting\RateLimiting.csproj;neutral
+C:\Users\HusseinHJ\Documents\Visual Studio 2017\Projects\RateLimiting\RateLimiting.NET\RateLimitingExample\RateLimitingExample.csproj;x64
