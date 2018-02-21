@@ -33,7 +33,7 @@ private void OnPointerMoved(object sender, PointerRoutedEventArgs pointerRoutedE
 	    //Do any thing here you want in background
 
 	    //For use UI code use ---> await Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Normal, () => { });
-    });
+    	});
 }
 ```
 
