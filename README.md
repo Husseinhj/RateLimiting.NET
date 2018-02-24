@@ -8,7 +8,7 @@ This library is Extension on `object` type which can use for any type.
 Read the article about [rate-limiting](https://medium.com/@hussein.juybari/rate-limiting-in-net-6d568acbde08) in medium.
 
 ## Nuget
-This avalible on [Nuget Packge Manager](https://www.nuget.org/packages/RateLimiting)
+This available on [Nuget Packge Manager](https://www.nuget.org/packages/RateLimiting)
 > `PM> Install-Package RateLimiting`
 
 ## Debounce method
