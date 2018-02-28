@@ -3,7 +3,7 @@
     <Files>
       <File FileName="RateLimiting/RateLimitingExtentionForObject.cs" Line="9" Column="19" />
       <File FileName="RateLimiting/Properties/AssemblyInfo.cs" Line="18" Column="3" />
-      <File FileName="RateLimitingCoreConsoleExample/Program.cs" Line="1" Column="14" />
+      <File FileName="RateLimitingCoreConsoleExample/Program.cs" Line="10" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

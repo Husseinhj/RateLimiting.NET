@@ -1,4 +1,5 @@
 ﻿using System;
+using RateLimiting;
 
 namespace RateLimitingCoreConsoleExample
 {
@@ -6,7 +7,7 @@ namespace RateLimitingCoreConsoleExample
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
