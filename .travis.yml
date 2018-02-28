@@ -2,6 +2,8 @@ language: csharp
 solution: RateLimiting.sln
 install:
   - sudo apt-get install -y gtk-sharp2
+  - nuget install Microsoft.NETCore -Version 5.0.0
+  - nuget Microsoft.NETCore.Portable.Compatibility -Version 1.0.0
   - nuget restore RateLimiting.sln
 mono:
   - latest
