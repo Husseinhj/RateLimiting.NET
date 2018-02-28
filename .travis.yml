@@ -7,7 +7,7 @@ before_install:
 install:
   - sudo apt-get install -y gtk-sharp2
   - mono .nuget/nuget.exe install Microsoft.NETCore -Version 5.0.0
-  #- mono .nuget/nuget.exe Microsoft.NETCore.Portable.Compatibility -Version 1.0.0
+  - mono .nuget/nuget.exe Microsoft.NETCore.Portable.Compatibility -Version 1.0.0
   #- mono .nuget/nuget.exe restore RateLimiting.sln
 mono:
   - latest
