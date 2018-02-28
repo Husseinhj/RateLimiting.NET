@@ -1,8 +1,8 @@
 language: csharp
 solution: RateLimiting.sln
 install:
+  - sudo apt-get install -y gtk-sharp2
   - nuget restore RateLimiting.sln
-  - nuget install Microsoft.CSharp -Version 4.0.0
 mono:
   - latest
 
