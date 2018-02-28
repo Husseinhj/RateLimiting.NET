@@ -1,4 +1,7 @@
 language: csharp
 solution: RateLimiting.sln
+install:
+  - nuget restore solution-name.sln
 mono:
   - latest
+
