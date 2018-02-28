@@ -15962,7 +15962,7 @@
       ]
     },
     "Microsoft.NETCore.Runtime.CoreCLR-arm/1.0.0": {
-      "sha512": "hoJfIl981eXwn9Tz8onO/J1xaYApIfp/YrhjSh9rRhml1U5Wj80LBgyp/6n+KI3VlvcAraThhnHnCTp+M3Uh+w==",
+      "sha512": "vUQyaKbHCa7BJAAzdfCP2FfBYOSt0YnDw7VMJLmD1/k68HIJgw1QO7GAfHhqoa39zkkvimC47QBH27wG4C5OGQ==",
       "type": "package",
       "path": "microsoft.netcore.runtime.coreclr-arm/1.0.0",
       "files": [
@@ -18467,34 +18467,26 @@
     ".NETPlatform,Version=v5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HusseinHJ\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
+    "/Users/husseinhj/.nuget/packages/": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\HusseinHJ\\Documents\\Visual Studio 2017\\Projects\\RateLimiting\\RateLimiting.NET\\RateLimiting\\RateLimiting.csproj",
+      "projectUniqueName": "/Users/husseinhj/Documents/xCode_Project/RateLimiting.NET/RateLimiting/RateLimiting.csproj",
       "projectName": "RateLimiting",
-      "projectPath": "C:\\Users\\HusseinHJ\\Documents\\Visual Studio 2017\\Projects\\RateLimiting\\RateLimiting.NET\\RateLimiting\\RateLimiting.csproj",
-      "projectJsonPath": "C:\\Users\\HusseinHJ\\Documents\\Visual Studio 2017\\Projects\\RateLimiting\\RateLimiting.NET\\RateLimiting\\project.json",
-      "packagesPath": "C:\\Users\\HusseinHJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HusseinHJ\\Documents\\Visual Studio 2017\\Projects\\RateLimiting\\RateLimiting.NET\\RateLimiting\\obj\\",
+      "projectPath": "/Users/husseinhj/Documents/xCode_Project/RateLimiting.NET/RateLimiting/RateLimiting.csproj",
+      "projectJsonPath": "/Users/husseinhj/Documents/xCode_Project/RateLimiting.NET/RateLimiting/project.json",
+      "packagesPath": "/Users/husseinhj/.nuget/packages/",
       "projectStyle": "ProjectJson",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\HusseinHJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "/Users/husseinhj/.config/NuGet/NuGet.Config"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       }
     },
     "dependencies": {
-      "Microsoft.NETCore": "[5.0.0, )",
-      "Microsoft.NETCore.Portable.Compatibility": "[1.0.0, )"
+      "Microsoft.NETCore": "5.0.0",
+      "Microsoft.NETCore.Portable.Compatibility": "1.0.0"
     },
     "frameworks": {
       "dotnet5.0": {
