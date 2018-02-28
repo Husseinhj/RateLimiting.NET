@@ -1,8 +1,9 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="RateLimiting/Properties/AssemblyInfo.cs">
+﻿<Properties StartupConfiguration="{66EC58B3-3C9B-4A57-A8F6-11EBE4E40B85}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RateLimitingCoreConsoleExample/Program.cs">
     <Files>
-      <File FileName="RateLimiting/RateLimitingExtentionForObject.cs" Line="92" Column="27" />
-      <File FileName="RateLimiting/Properties/AssemblyInfo.cs" Line="25" Column="36" />
+      <File FileName="RateLimiting/RateLimitingExtentionForObject.cs" Line="9" Column="19" />
+      <File FileName="RateLimiting/Properties/AssemblyInfo.cs" Line="18" Column="3" />
+      <File FileName="RateLimitingCoreConsoleExample/Program.cs" Line="1" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +11,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RateLimitingCoreConsoleExample PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
