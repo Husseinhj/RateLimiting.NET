@@ -6,3 +6,5 @@ RateLimiting/obj/
 RateLimiting/bin/
 
 RateLimitingExample/bin/
+/.vs
+/RateLimitingCoreConsoleExample/obj
